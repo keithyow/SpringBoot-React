@@ -1,0 +1,6 @@
+Introduction: Java framework, serve web apps, API
+Spring initializer: hhtps://start.spring.io, maven, jre17, 2.7, jar, zip
+Programming:
+- EntryPoint, @SpringBootApplication
+- Domain: Entity class, JPA, Hibernate, ORM
+- Pom.xml, dependency... web starter, JPA, H2, MySQL, mavenrepo.org

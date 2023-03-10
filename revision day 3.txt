@@ -1,0 +1,4 @@
+More example
+@Query("...")
+Style={{key:value}}
+Insert rental, customer_id, rental_date 

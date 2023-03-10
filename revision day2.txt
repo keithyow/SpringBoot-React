@@ -1,0 +1,7 @@
+Security
+- JWT (Authorization)
+- Authorization (validate JWT)
+Reactjs
+- Sakila front end
+- Sakila back end
+Film, Actor 
